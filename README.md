@@ -24,4 +24,4 @@
   
 ### Компьютерная помощь в Щёлково +7 967 167-77-37
 ---
- ![Яндекс Браузер]([yandex.svg](https://distribution.yandex.ru/v2/static/desktop.bundles/components/img/4dc21e7d0e9e8b0b90dc49e60b42eca7.svg "Яндекс Браузер для организаций")
+ ### !(/img/yandex.svg) [Яндекс Браузер](https://ya.cc/4fQgmZ "Яндекс Браузер для организаций")
